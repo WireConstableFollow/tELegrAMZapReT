@@ -1,0 +1,19 @@
+# tELegrAMZapReT
+
+> Обновлённая версия с поддержкой обхода Telegram в текущих условиях. Надежнее, быстрее, стабильнее
+
+Если в Telegram не грузятся картинки, tELegrAMZapReT чинит канал без VPN-клиента.
+
+## Страницы
+- Сайт: https://wireconstablefollow.github.io/tELegrAMZapReT/
+- Релиз: https://github.com/WireConstableFollow/tELegrAMZapReT/releases/latest
+- Исходный код: https://github.com/WireConstableFollow/tELegrAMZapReT
+- Движок: https://github.com/bol-van/zapret
+
+## Запросы
+- обход блокировки Telegram
+- Telegram не отправляет фото
+- Telegram звонки не работают
+- zapret Telegram
+
+Windows 10/11, без VPN, бесплатно.
